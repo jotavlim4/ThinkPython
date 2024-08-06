@@ -3,3 +3,6 @@ Repositório para solução de problemas do livro "Pense em python: pense como u
 
 O livro é utilizado como fonte principal de estudo ao passo que o curso tem como finalidade oferecer uma visão diferenciada, um outro ponto de vista, assim como, aspectos/exercícios/
 problemas que não são abordados diretamente no livro.
+
+### Link para o repositório do curso 6.100L
+Minha evolução no [curso](https://github.com/jotavlim4/6.100L).

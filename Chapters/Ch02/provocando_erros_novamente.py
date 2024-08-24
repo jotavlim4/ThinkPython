@@ -22,7 +22,7 @@
 
 # da pra multiplicar dois números sem usar o operador de multiplicação?
 # xy = x * y?
-x = 1;
-y = 2;
-z = xy;
-print(z);
+# x = 1;
+# y = 2;
+# z = xy;
+# print(z);
